@@ -1,0 +1,3 @@
+[submodule "private/scala-lsp"]
+	path = private/scala-lsp
+	url = https://github.com/zheli/scala-lsp.git
